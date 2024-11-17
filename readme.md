@@ -50,7 +50,7 @@ Make sure you have the following installed on your system:
 
 The project structure follows Django’s standard structure:
 ```plaintext
-photos/
+photofilio_django_project/
 ├── photos/               # Main project folder
 │   ├── settings.py       # Project settings
 │   ├── urls.py           # URL routing
